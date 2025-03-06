@@ -1,0 +1,217 @@
+.Allheader {
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .contact-info{
+    position: absolute;
+    left:9rem;
+    top:0.5rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+
+  }
+
+  .available{
+    position: absolute;
+    left:17rem;
+    top:0.5rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+  }
+.vertical-line{
+    position: absolute;
+    left:27.5rem;
+    top:0.2rem;
+    width: 1px;       
+    height: 28px;        
+    background-color: black;
+}
+.vertical-line2{
+  position: absolute;
+  left:20rem;
+  top:2.8rem;
+  width: 1px;       
+  height: 38px;        
+  background-color: black;
+}
+.vertical-line3{
+  position: absolute;
+  left:33.3rem;
+  top:2.8rem;
+  width: 1px;       
+  height: 38px;        
+  background-color: black;
+}
+.vertical-line4{
+  position: absolute;
+  left:46rem;
+  top:2.8rem;
+  width: 1px;       
+  height: 38px;        
+  background-color: black;
+}
+.vertical-line5{
+  position: absolute;
+  left:59.5rem;
+  top:2.8rem;
+  width: 1px;       
+  height: 38px;        
+  background-color: black;
+}
+
+.vertical-line6{
+  position: absolute;
+  left:69rem;
+  top:2.8rem;
+  width: 1px;       
+  height: 38px;        
+  background-color: black;
+}
+.vertical-line7{
+  position: absolute;
+  left:77rem;
+  top:2.8rem;
+  width: 1px;       
+  height: 38px;        
+  background-color: black;
+}
+.vertical-line8{
+  position: absolute;
+  left:86rem;
+  top:2.8rem;
+  width: 1px;       
+  height: 38px;        
+  background-color: black;
+}
+.horizontal-lineall{
+    width: 100%;
+    border: none;
+    height: 1px; /* Adjust the height as needed */
+    background-color: #000;
+    position: absolute;
+    top:1.6rem;
+}
+  .icon2{
+    position: absolute;
+    left:29rem;
+    top:0.5rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+  }
+
+  .callback{
+    position: absolute;
+    left:31rem;
+    top:0.5rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+  }
+
+  .allHome{
+    position: absolute;
+    left:15rem;
+    top:3rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+
+  }
+
+  .healthinsurance{
+    position: absolute;
+    left:22rem;
+    top:3rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+
+  }
+
+  .Motorinsurance{
+    position: absolute;
+    left:35rem;
+    top:3rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+  }
+
+  .corporateinsurance{
+    position: absolute;
+    left:47rem;
+    top:3rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+  }
+
+  .allrenewals{
+    position: absolute;
+    left:61rem;
+    top:3rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+  }
+
+  .allclaim{
+    position: absolute;
+    left:71rem;
+    top:3rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+  }
+
+  .allsupport{
+    position: absolute;
+    left:79rem;
+    top:3rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+  }
+
+
+  .alllogin
+  {position: absolute;
+    left:88rem;
+    top:3rem;
+    font-size: 20px;
+  font-family: 'Abhaya Libre', serif;
+
+  }
+
+  .blueimage{
+    position: absolute;
+    left:0.2rem;
+    top:2.5rem;
+    width: 235px;
+    height: 50px;
+  }
+
+  .user{
+    position: absolute;
+    left:7rem;
+    top:0.6rem;
+    height: 20px;
+    width: 20px;
+
+
+  }
+
+  .nav-menu {
+    display: flex;
+    align-items: center;
+    /* Add your existing styles */
+  }
+  
+  .nav-menu a {
+    margin: 0 10px;
+    text-decoration: none; /* Remove underline */
+    color: black; /* Set text color to black */
+  }
+  
+  .nav-menu a:hover {
+    color: blue; /* Change text color to blue on hover */
+  }
+  

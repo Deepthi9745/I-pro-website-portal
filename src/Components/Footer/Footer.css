@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+
+.footer{
+  position: absolute;
+    background-color:rgba(208, 204, 215, 1);
+   width: 1470px;
+   height: 380px;
+  
+  border: 1px solid black;
+  bottom: -459%;
+  
+}
+
+.footertext{
+  position: absolute;
+  color: rgb(29, 27, 27);
+  left :29rem;
+  font-size: 18px;
+  font-family: 'Abhaya Libre', serif;
+
+}
+.footertext2{
+  position: absolute;
+  color: rgb(29, 27, 27);
+  left :29rem;
+  bottom: 69%;
+  font-size: 16px;
+  font-family: 'Abhaya Libre', serif;
+
+}
+
+.graylogo{
+  position: absolute;
+  left:3rem;
+  height:100px;
+  width: 400px;;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.icons {
+  font-size: 2rem;
+  color: #333;
+  transition: color 0.3s;
+}
+
+.icons:hover {
+  color: #007bff; /* Change this to whatever hover color you prefer */
+}
+
+.instagram {
+  color: #E4405F;
+  position: absolute;
+  Left:10rem;
+  bottom: 58%;
+}
+
+.linkedin{
+  position: absolute;
+  Left:4rem;
+  color: #0077B5;
+  bottom: 58%;
+}
+
+.whatsapp {
+  color: #25D366;
+  position: absolute;
+  Left:13rem;
+  bottom: 58%;
+}
+
+.youtube {
+  color: #FF0000;
+  position: absolute;
+  Left:7rem;
+  bottom: 58%;
+}
+
+.envelope {
+  color: #333;
+  position: absolute;
+  Left:16rem;
+  bottom: 58%;
+}
+
+.icon.phone {
+  color:black;
+  position: absolute;
+  Left:4rem;
+  bottom: 44%;
+}
+.phonetext{
+  color:black;
+  position: absolute;
+  Left:7rem;
+  bottom: 42%;
+}
+.icon3{
+  color: black;
+  position: absolute;
+  Left:4.5rem;
+  bottom: 47%;
+  size: 30px;
+}
+.address {
+  color: black;
+  position: absolute;
+  Left:7rem;
+  bottom: 20%;
+}
+
+.iconsaddress {
+  color: #0a0a0a;
+  position: absolute;
+  Left:4.5rem;
+  bottom: 10%;
+}
+
+.iconsemail{
+  color: #0a0a0a;
+  position: absolute;
+  Left:4.5rem;
+  bottom: 35%;
+}
+
+.email{
+  color: #0a0a0a;
+  position: absolute;
+  Left:7rem;
+  bottom: 7%;
+}
+
+.phone{
+  color: #0a0a0a;
+  position: absolute;
+  Left:7rem;
+  bottom: 40%;
+}
+.phone-link {
+  text-decoration: none;
+}
+
+.call-text{
+  color: #0a0a0a;
+  position: absolute;
+  Left:7.5rem;
+  bottom: 40%;
+}
+
+.IRDA{
+  position: absolute;
+  Left:42rem;
+  bottom: 65%;
+  width:100px;
+  height:60px;
+}
+.groupcompanies{
+  position: absolute;
+  Left:55rem;
+  bottom: 68.5%;
+}
+
+.Product{
+  position: absolute;
+  Left:29rem;
+  bottom: 50%;
+  font-family: 'Abhaya Libre', serif;
+}
+.Service {
+  position: absolute;
+  Left:35rem;
+  bottom: 50%;
+  font-family: 'Abhaya Libre', serif;
+}
+.Legal {
+  position: absolute;
+  Left:41rem;
+  bottom: 50%;
+  font-family: 'Abhaya Libre', serif;
+}
+.AboutUs {
+  position: absolute;
+  Left:46rem;
+  bottom: 50%;
+  font-family: 'Abhaya Libre', serif;
+}
+
+.LocateUs{
+  position: absolute;
+  Left:80rem;
+  bottom: 30%;
+  font-family: 'Abhaya Libre', serif;
+}
+
+.address2{
+  position: absolute;
+  Left:80rem;
+  bottom: 10%;
+  font-family: 'Abhaya Libre', serif;
+}
