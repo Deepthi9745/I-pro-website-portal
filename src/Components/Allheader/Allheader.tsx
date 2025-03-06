@@ -3,10 +3,13 @@ import './Allheader.css';
 import { faPhone, faUser } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import blueimagelogo from '../../Images/I-Pro logo with white BG.jpg';
+import { FaMapMarkerAlt } from "react-icons/fa";
+
 
 const Header: React.FC = () => {
   return (
     <header className="Allheader">
+      <FaMapMarkerAlt className="iconsaddress" />
       <div className="contact-info">
         080 23414133 <br />
       </div>

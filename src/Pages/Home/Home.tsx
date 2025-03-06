@@ -46,6 +46,8 @@ import icicpru from '../../../src/Images/icicipru.jpg';
 import tataaia from '../../../src/Images/tataaia.jpg';
 import hdfclife from '../../../src/Images/hadfclife.jpg';
 import bajaj from '../../../src/Images/bajaj..jpg';
+import { FaMapMarkerAlt } from "react-icons/fa";
+
 
 const Home: React.FC = () => {
   const [quoteType, setQuoteType] = useState('');
