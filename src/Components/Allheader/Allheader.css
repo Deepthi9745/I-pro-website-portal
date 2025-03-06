@@ -92,7 +92,7 @@
 .horizontal-lineall{
     width: 100%;
     border: none;
-    height: 1px; /* Adjust the height as needed */
+    height: 1px; 
     background-color: #000;
     position: absolute;
     top:1.6rem;
@@ -202,16 +202,16 @@
   .nav-menu {
     display: flex;
     align-items: center;
-    /* Add your existing styles */
+    
   }
   
   .nav-menu a {
     margin: 0 10px;
-    text-decoration: none; /* Remove underline */
-    color: black; /* Set text color to black */
+    text-decoration: none;
+    color: black; 
   }
   
   .nav-menu a:hover {
-    color: blue; /* Change text color to blue on hover */
+    color: blue; 
   }
   

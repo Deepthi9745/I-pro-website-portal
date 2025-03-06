@@ -91,8 +91,8 @@
   left:8rem;
   top:37rem;
   border: none;
-  height: 1px; /* Adjust the height as needed */
-  background-color: #000; /* Adjust the color as needed */
+  height: 1px; 
+  background-color: #000; 
 }
 
 .horizontal-line2{
@@ -101,7 +101,7 @@
     left:28rem;
     top:37rem;
     border: none;
-    height: 1px; /* Adjust the height as needed */
+    height: 1px; 
     background-color: #000;
 }
 .gethealth{
@@ -119,14 +119,14 @@
     left:48rem;
     top:37rem;
     border: none;
-    height: 1px; /* Adjust the height as needed */
+    height: 1px; 
     background-color: #000;
 }
 
     .horizontal-line4 {
         width: 100%;
         border: none;
-        height: 1px; /* Adjust the height as needed */
+        height: 1px; 
         background-color: #000;
 }
 .text2{
@@ -338,7 +338,7 @@
 .horizontal-line5 {
     width: 100%;
     border: none;
-    height: 1px; /* Adjust the height as needed */
+    height: 1px; 
     background-color: #000;
     position: absolute;
     top:95rem;
@@ -405,7 +405,7 @@
     margin: 15px 0;
     top:103.5rem;
     left:5rem;
-    padding-left: 40px; /* Adjust padding to align bullets */
+    padding-left: 40px; 
     font-family: 'Abhaya Libre', serif;
     font-size: 16px;
     color: #333;
@@ -428,7 +428,7 @@
     margin: 15px 0;
     top:108rem;
     left:14rem;
-    padding-left: 40px; /* Adjust padding to align bullets */
+    padding-left: 40px; 
     font-family: 'Abhaya Libre', serif;
     font-size: 14px;
     color: #333;
@@ -447,7 +447,7 @@
     margin: 15px 0;
     top:108rem;
     left:36rem;
-    padding-left: 40px; /* Adjust padding to align bullets */
+    padding-left: 40px; 
     font-family: 'Abhaya Libre', serif;
     font-size: 15px;
     color: #333;
@@ -470,7 +470,7 @@
     margin: 15px 0;
     top:103rem;
     left:27rem;
-    padding-left: 40px; /* Adjust padding to align bullets */
+    padding-left: 40px; 
     font-family: 'Abhaya Libre', serif;
     font-size: 16px;
     color: #333;
@@ -488,7 +488,7 @@
     margin: 15px 0;
     top:103rem;
     left:48rem;
-    padding-left: 40px; /* Adjust padding to align bullets */
+    padding-left: 40px; 
     font-family: 'Abhaya Libre', serif;
     font-size: 16px;
     color: #333;
@@ -511,7 +511,7 @@
     margin: 15px 0;
     top:108rem;
     left:57rem;
-    padding-left: 40px; /* Adjust padding to align bullets */
+    padding-left: 40px; 
     font-family: 'Abhaya Libre', serif;
     font-size: 14px;
     color: #333;
@@ -529,7 +529,7 @@
     margin: 15px 0;
     top:103rem;
     left:69rem;
-    padding-left: 40px; /* Adjust padding to align bullets */
+    padding-left: 40px; 
     font-family: 'Abhaya Libre', serif;
     font-size: 16px;
     color: #333;
@@ -552,7 +552,7 @@
     margin: 15px 0;
     top:108rem;
     left:77rem;
-    padding-left: 40px; /* Adjust padding to align bullets */
+    padding-left: 40px; 
     font-family: 'Abhaya Libre', serif;
     font-size: 14px;
     color: #333;
@@ -560,7 +560,7 @@
   .horizontal-line6 {
     width: 100%;
     border: none;
-    height: 1px; /* Adjust the height as needed */
+    height: 1px; 
     background-color: #000;
     position: absolute;
     top:125rem;
@@ -729,7 +729,7 @@
   .horizontal-line6 {
     width: 100%;
     border: none;
-    height: 1px; /* Adjust the height as needed */
+    height: 1px; 
     background-color: #000;
     position: absolute;
     top:169rem;
@@ -925,9 +925,8 @@
 
 
 .smallwhitebox:hover{
-    /* background-color: #FE9D9D; */
     color: #FE9D9D;
-} */
+} 
 
 .hearthealth{
     position: absolute;
@@ -1143,7 +1142,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px; 
     position: absolute;
     top:13rem;
     left:15rem;
@@ -1157,7 +1156,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px;
     position: absolute;
   top:13rem;
   left:24.5rem;
@@ -1172,7 +1171,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px; 
     position: absolute;
   top:13rem;
   left:34rem;
@@ -1187,7 +1186,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px;
     position: absolute;
   top:13rem;
   left:43.5rem;
@@ -1202,7 +1201,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px; 
     position: absolute;
   top:13rem;
   left:53rem;
@@ -1216,7 +1215,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px; 
     position: absolute;
   top:21.5rem;
   left:5.5rem;
@@ -1231,7 +1230,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px; 
     position: absolute;
   top:21.5rem;
   left:15rem;
@@ -1245,7 +1244,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px; 
     position: absolute;
   top:21.5rem;
   left:24.5rem;
@@ -1259,7 +1258,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px; 
     position: absolute;
   top:21.5rem;
   left:34rem;
@@ -1274,7 +1273,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px;
     position: absolute;
   top:21.5rem;
   left:43.5rem;
@@ -1289,7 +1288,7 @@ color: #FE9D9D;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-right: 10px; /* Adjust margin as needed for spacing between boxes */
+    margin-right: 10px; 
     position: absolute;
   top:21.5rem;
   left:53rem;

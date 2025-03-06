@@ -34,8 +34,8 @@
 }
 
 .Home{
-  position: absolute; /* Positioning to enable left and top properties */
-  left: 42rem; /* Adjust the left position as needed */
+  position: absolute; 
+  left: 42rem; 
   top: 4.5%; 
 color: white;
 font-size: 20px;
@@ -123,16 +123,16 @@ font-family: 'Abhaya Libre', serif;
   margin: 0;
 }
 
-/* Style for navbar links */
+
 .navbar-list .navbar-item {
-  display: inline-block; /* Ensure list items are inline */
-  margin-right: 15px; /* Adjust spacing between items */
+  display: inline-block; 
+  margin-right: 15px; 
 }
 
-/* Example of styling active links */
+
 .navbar-list .navbar-item .navbar-link.active {
   font-weight: bold;
-  color: #294CA5; /* Example active link color */
+  color: #294CA5;
 }
 
 .Allheader {
